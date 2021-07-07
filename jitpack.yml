@@ -1,0 +1,2 @@
+install:
+   - ./gradlew clean build publishToMavenLocal -x test -x verifyGoogleJavaFormat --settings-file settings.jitpack.gradle

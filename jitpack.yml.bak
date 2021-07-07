@@ -1,0 +1,2 @@
+install:
+   - .clean build publishToMavenLocal -x test -x verifyGoogleJavaFormat 

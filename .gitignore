@@ -253,3 +253,4 @@ generated/
 .settings
 
 # End of https://www.gitignore.io/api/node,java,macos,linux,cmake,gradle,intellij+all
+.flattened-pom.xml
